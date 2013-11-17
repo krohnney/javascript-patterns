@@ -1,0 +1,13 @@
+* {
+	box-size: border-box;
+	margin: 0;
+	position: 0;
+	display: block;
+}
+
+body {
+	font-family: Arial, Helvetica, Sans-serif;
+	font: 16/18 #000;
+	color: green;
+	text-alignment: center;
+}
