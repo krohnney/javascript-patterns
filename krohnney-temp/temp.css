@@ -11,3 +11,11 @@ body {
 	color: green;
 	text-alignment: center;
 }
+
+h1,
+h2,
+h3 {
+	size: 3em;
+	font-weight: bold;
+	font-family: 'Arial Black';
+}
