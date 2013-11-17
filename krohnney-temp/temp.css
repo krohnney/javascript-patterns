@@ -10,6 +10,8 @@ body {
 	font: 16/18 #000;
 	color: green;
 	text-alignment: center;
+	background: url('../img/bck.jpg') no-repeat center top;
+	vertical-align: middle;
 }
 
 h1,
